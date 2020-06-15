@@ -44,7 +44,7 @@ fun main() {
         val name = readLine()!!.toString()
         println("Location: ")
         val location = readLine()!!.toString()
-        var petName: String? = null
+        var petName: String? =null
 
         for(PetId in 1..2){
             println("Enter Pet $PetId")
