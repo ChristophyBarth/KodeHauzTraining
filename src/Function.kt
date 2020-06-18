@@ -21,11 +21,6 @@ fun arrayFun (vararg names:String){
 
 }
 
-/* A function that returns hello world
-A function that reverse a string
-A function that returns the grater of three numbers
- */
-
 //fun sumTest (r:Int, s:Int){
 //    val sum = r + s
 //    println(sum)
