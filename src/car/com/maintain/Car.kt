@@ -20,6 +20,7 @@ fun main(){
 //    println(car2.owner)
 //    println(car2.price)
 //    println("Your price is ${car2.getCarPrice()}")
+
     val listOfCar = arrayListOf<Car>()
     listOfCar.add(Car("BMW", 2016, 10000.0, 100,"CHRIS"))
     listOfCar.add(Car("FORD", 2017, 20000.0, 150,"EZINNE"))
