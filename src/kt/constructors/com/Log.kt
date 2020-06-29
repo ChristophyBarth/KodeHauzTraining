@@ -1,4 +1,4 @@
-package kotlin.constructors.com
+package kt.constructors.com
 
 open class Log {
     var data:String = ""
@@ -8,7 +8,7 @@ open class Log {
     constructor(_data: String,_numOfData: Int){
     }
 }
-class AuthLog:Log{
+class AuthLog: Log {
     //   constructor(_data: String) : super(_data){
 //
 //    }

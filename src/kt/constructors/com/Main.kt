@@ -1,4 +1,4 @@
-package kotlin.constructors.com
+package kt.constructors.com
 
 fun main(){
 //    println("Person1 is instantiated")
